@@ -1,0 +1,42 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~core.PrjPcb|ReportField=ProjectFullPath~F:\AD文件\电路原理图\核心板（可选）带原理图\core.PrjPcb|ReportField=Title~Bill of Materials For Project [core.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~113|ReportField=ReportTime~15:02:01|ReportField=ReportDate~2017/10/17|ReportField=ReportDateTime~2017/10/17 15:02:01|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/10/17|ReportField=CurrentTime~15:01:50|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\AD文件\电路原理图\核心板（可选）带原理图\EP3C25.SchDoc|ReportField=DocumentName~EP3C25.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/9/29|ReportField=Organization~|ReportField=ProjectName~core.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~core.PrjPcb|ReportField=DataSourceFullPath~F:\AD文件\电路原理图\核心板（可选）带原理图\core.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|0.1uF|Capacitor|C1, C2, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C24, C26, C27, C28, C31, C32, C33, C34, C35, C36, C37, C39, C43, C44, C45, C46, C47, C48, C49, C50, C51, C52, C53, C54, C55|0805C|Cap|43
+2|220uF|Polarized Capacitor (Radial)|C3|Cap6.6*6.6|Cap Pol1|1
+3|100uF|Polarized Capacitor (Radial)|C4, C6|Cap6.6*6.6|Cap Pol1|2
+4|220uF|Polarized Capacitor (Radial)|C5|8228|Cap Pol1|1
+5|0.001uF|Capacitor|C23, C25, C38, C42|0805C|Cap|4
+6|10uF|Capacitor|C29, C30, C40, C41|3216C/A|Cap|4
+7|LED0|Typical INFRARED GaAs LED|D0|0805A|LED0|1
+8|LED1|Typical INFRARED GaAs LED|D1|0805A|LED0|1
+9|LED2|Typical INFRARED GaAs LED|D2|0805A|LED0|1
+10|LED3|Typical INFRARED GaAs LED|D3|0805A|LED0|1
+11|S340|Default Diode|D5|SMB|Diode|1
+12|EPCS|Header, 5-Pin, Dual row|EPCS|IDC10_S|Header 5X2|1
+13|Bank1||JP1|IDC50-S|CORE_CONNECTOR_LEFT|1
+14|Bank2||JP2|IDC50-S|CORE_CONNECTOR_FRONT|1
+15|HEADER 36X2||JP3|IDC72_S|CORE_CONNECTOR_RIGHT|1
+16|Bank4||JP4|IDC50-S|CORE_CONNECTOR_BACK|1
+17|JTAG|Header, 5-Pin, Dual row|JTAG|IDC10_S|Header 5X2|1
+18|1.5A|Inductor|L1|临时画的电感封装|Inductor|1
+19|600 Ohm@100MHz|Inductor|L2, L3, L4, L5, L6, L7|0805R|Inductor|6
+20|CON3||PW|PW_PORT|CON3|1
+21|LED|Typical INFRARED GaAs LED|PWLED|0805A|LED0|1
+22|1K|Resistor|R1, R3, R4|0805R|Res1|3
+23|NC|Resistor|R2, R6|0805R|Res1|2
+24|0|Resistor|R5, R14, R21|0805R|Res1|3
+25|4.7K|Resistor|R7|0805R|Res1|1
+26|5.1K|Resistor|R8|0805R|Res1|1
+27|10K|Resistor|R9, R10, R11, R12, R13, R16, R17, R18, R19, R20, R22|0805R|Res1|11
+28|33|Resistor|R15, R23|0805R|Res1|2
+29|SW-PB|Switch|RESET|SMD_SWITH|SW-PB|1
+30|SW SPDT|SPDT Subminiature Toggle Switch, Right Angle Mounting, Vertical Actuation|SW|PW_SW|SW-SPDT|1
+31|1117-2.5|Header, 4-Pin|U1|SOT-223|Header 4|1
+32|LM2596|Header, 5-Pin|U2|LM2596_TO263|Header 5|1
+33|AMS1084_33|Header, 3-Pin|U3|AMS1084-ADJ|Header 3|1
+34|EP3C25||U4|PQFP240|EP3C25Q240C8|1
+35|MAX811T|Header, 4-Pin|U5|SOT143|Header 4|1
+36|JS28F640|Header, 30-Pin, Dual row|U6|SOP56_E28F640|Header 30X2|1
+37|EPCS16|Header, 8-Pin, Dual row|U7|SOP16_EPCS16|Header 8X2|1
+38|HY57V641620|Header, 30-Pin, Dual row|U8|TSOP54|Header 30X2|1
+39|EPCS4|Header, 8-Pin|U10|so8|Header 8|1
+40|PACDN046M|Header, 4-Pin, Dual row|U11, U12|MSOP8|Header 4X2|2
+41|CLOCK_SOURCE|Header, 4-Pin|X1, X2|CRYSTAL4|Header 4|2
