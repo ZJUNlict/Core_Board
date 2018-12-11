@@ -4,9 +4,9 @@
 
 The 2D and 3D design views are shown below:
 
-![](./Images/2D_Design_View_Shrinked.png)
+![](./Images/2D_Design_View_Shrinked.PNG)
 
-![](./Images/3D_Design_View_Shrinked.png)
+![](./Images/3D_Design_View_Shrinked.PNG)
 
 The main features are:
 
